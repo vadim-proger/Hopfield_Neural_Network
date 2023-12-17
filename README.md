@@ -1,1 +1,1 @@
-# Hopfield_Neural_Network
+# Hopfield-Neural-Network
